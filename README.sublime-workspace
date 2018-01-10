@@ -1,0 +1,307 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "Package Control: up",
+		"selected_items":
+		[
+			[
+				"Package Control: up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"mm_wor",
+			"Package Control: Install Package",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/CollectPro_BCR(08Marzo2017)/src/classes/ControllerAssignmentStragety.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/CollectPro_BCR(08Marzo2017)/src/classes/ControllerCollectionActivity.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/CollectPro_BCR(08Marzo2017)/src/classes/MiscellaneousCollectionActivity.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/CollectPro_BCR(08Marzo2017)/src/classes/Constants.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/CollectPro_BCR(08Marzo2017)/src/classes/ControllerConfigurationList.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/CollectPro_BCR(08Marzo2017)/src/pages/Collection_Activity.page",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/CollectPro_BCR(08Marzo2017)/src/pages/Configuration_List.page",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/CollectPro_BCR(08Marzo2017)/src/triggers/PastDueTrigger.trigger",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/CollectPro_BCR(08Marzo2017)/src/classes/PastDueTriggerHandler.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/CollectPro_BCR(08Marzo2017)/src/pages/Activity_Reasignment.page",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/CollectPro_BCR(08Marzo2017)/src/classes/ControllerReassignment.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/CollectPro_BCR(08Marzo2017)/src/triggers/Trigger_Activity_Update.trigger",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/CollectPro_BCR(08Marzo2017)/src/pages/Assignment_Stragety.page",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/CollectPro_BCR(03Marzo2017)/src/classes/Activity.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/CollectPro_BCR(03Marzo2017)/src/classes/Alternate.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/CollectPro_BCR(03Marzo2017)/src/classes/ControllerCollectionActivity.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/CollectPro_BCR(03Marzo2017)/src/classes/ControllerReassignment.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/CollectPro_BCR(03Marzo2017)/src/classes/MiscellaneousCollectionActivity.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/CollectPro_BCR(03Marzo2017)/src/classes/PastDueTriggerHandler.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/CollectPro_BCR(03Marzo2017)/src/classes/TestActivityTrigger.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/CollectPro_BCR(03Marzo2017)/src/classes/TestCollectionActivitie.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/CollectPro_BCR(03Marzo2017)/src/classes/TestControllerReassignment.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/CollectPro_BCR(03Marzo2017)/src/classes/TestData.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/CollectPro_BCR(03Marzo2017)/src/classes/TestTriggerInsertPastDue.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/CollectPro_BCR(03Marzo2017)/src/classes/TestTriggers.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/CollectPro_BCR(03Marzo2017)/src/pages/Activity_Reasignment.page",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/CollectPro_BCR(03Marzo2017)/src/pages/Collection_Activity.page",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/CollectPro_BCR(03Marzo2017)/src/triggers/Trigger_Payment_Insert.trigger",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/BFG_23Diciembre2016/src/classes/GestorMatriz.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/BFG_23Diciembre2016/src/triggers/Gestion_Modificacion.trigger",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/BFG_22Diciembre2016/src/classes/Constant.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/BFG_22Diciembre2016/src/classes/Util.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/BFG_21Diciembre2016/src/classes/PrecreditPro.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_10Agosto2016/src/classes/ShowingTriggerHandler.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_10Agosto2016/src/classes/ShowingTriggerHandlerTest.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_10Agosto2016/src/classes/TrailerTriggerHandlerTest.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_10Agosto2016/src/classes/ShowingWizardControllerTest.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_10Agosto2016/src/classes/ShowingWizardController.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_10Agosto2016/src/pages/ShowingWizard.page",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_10Agosto2016/src/classes/ShowingTriggerService.cls",
+		"/Users/miguelchinchilla/Documents/Codigo Ioan/NewUpdateBondOffering.page",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_10Agosto2016/src/classes/Util.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/Alcance_09Agosto2016/src/classes/Constant.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/Alcance_09Agosto2016/src/triggers/Prospecto.trigger",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/Alcance_09Agosto2016/src/pages/reasignacion_prospecto.page",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/Amcs_Production_09Agosto2016/src/classes/ShowingWizardController.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/Amcs_Production_09Agosto2016/src/pages/ShowingWizard.page",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_08Agosto2016/src/pages/ShowingWizard.page",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_08Agosto2016/src/classes/ShowingWizardController.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_08Agosto2016/src/classes/Util.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_08Agosto2016/src/classes/TrailerTriggerHandlerTest.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_08Agosto2016/src/classes/ShowingTriggerHandlerTest.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_08Agosto2016/src/classes/ShowingWizardControllerTest.cls",
+		"/Users/miguelchinchilla/Desktop/Codigo Ioan/NewUpdateBondOfferingController.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_06Agosto2016/src/classes/ShowingWizardController.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_06Agosto2016/src/classes/ShowingTriggerService.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_06Agosto2016/src/pages/ShowingWizard.page",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_05Agosto2016_2/src/classes/TrailerTriggerService.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_05Agosto2016_2/src/classes/Util.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_05Agosto2016_2/src/classes/ShowingTriggerHandler.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_05Agosto2016_2/src/classes/TrailerTriggerHandler.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_05Agosto2016_2/src/pages/ShowingWizard.page",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_05Agosto2016_2/src/classes/ShowingWizardController.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_05Agosto2016_2/src/classes/ShowingTriggerService.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_05Agosto2016_2/src/classes/ShowingTriggerService.cls-meta.xml",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_05Agosto2016_2/src/triggers/TrailerTrigger.trigger",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/Alcance_05Agosto2016/src/pages/oportunidad_tc.page",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_05Agosto2016/src/classes/ShowingWizardController.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_02Agosto2016/src/classes/ShowingTriggerHandlerTest.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_02Agosto2016/src/classes/ShowingWizardControllerTest.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_02Agosto2016/src/classes/constants.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_02Agosto2016/src/classes/Util.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_02Agosto2016/src/classes/TrailerTriggerHandlerTest.cls",
+		"/Users/miguelchinchilla/Desktop/Codigo Ioan/BondBuyTriggerHandlerTest.cls",
+		"/Users/miguelchinchilla/Desktop/Codigo Ioan/NewUpdateBondOfferingControllerTest.cls",
+		"/Volumes/Mac/Backups.backupdb/MacBook Air de Miguel/2016-04-04-073316/Macintosh HD/Users/ChinchillaKlemanFamily/Documents/sf_projects/ProjectAssigment_Review/src/classes/ShowtimeController_Test.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_01Agosto2016/src/classes/constants.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_01Agosto2016/src/classes/TrailerTriggerHandlerTest.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_01Agosto2016/src/classes/Util.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/Amcs_29Julio2016/src/classes/TrailerTriggerHandlerTest.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/Amcs_29Julio2016/src/classes/constants.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/Amcs_29Julio2016/src/classes/ShowingTriggerHandlerTest.cls",
+		"/Users/miguelchinchilla/Desktop/Codigo Ioan/Constants.cls",
+		"/Users/miguelchinchilla/Desktop/Codigo Ioan/TestData.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_28Julio2016/src/classes/TestData.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_28Julio2016/src/classes/Util.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_28Julio2016/src/classes/TrailerTriggerService.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_28Julio2016/src/classes/TrailerTriggerHandlerTest.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_28Julio2016/src/classes/TrailerTriggerHandler.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/Avon_28Julio2016/src/classes/ControllerConfiguracionMovil.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_28Julio2016/src/classes/constants.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_28Julio2016/src/classes/ShowingTriggerHandlerTest.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_28Julio2016/src/classes/ShowingTriggerHandlerTest.cls-meta.xml",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/Avon_28Julio2016/src/classes/TestDataFactory.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/Avon_28Julio2016/src/classes/RutaMovilTriggerHandler_Test.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/Avon_28Julio2016/src/classes/RutaMovilTriggerHandler.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/Avon_28Julio2016/src/classes/Utils.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/Avon_28Julio2016/src/classes/PedidoTriggerHandler_Test.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/Avon_28Julio2016/src/classes/PedidoTriggerHandler.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/Avon_28Julio2016/src/classes/PedidoTriggerHandler.cls-meta.xml",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/Avon_28Julio2016/src/classes/DistribuidorTriggerHandler_Test.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/Avon_28Julio2016/src/triggers/PedidoTrigger.trigger",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/Avon_28Julio2016/src/triggers/DistribuidorTrigger.trigger",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/Avon_28Julio2016/src/classes/DistribuidorTriggerHandler.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/Avon_28Julio2016/src/classes/ProspectoTriggerHandler.cls",
+		"/Users/miguelchinchilla/Desktop/Codigo Ioan/BondBuyTriggerService.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_27Julio2016/src/classes/TrailerTriggerService.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_27Julio2016/src/classes/TrailerTriggerHandler.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_27Julio2016/src/classes/ShowingWizardController.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_27Julio2016/src/classes/TrailerTriggerHandlerTest.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_27Julio2016/src/classes/ShowingTriggerHandler.cls",
+		"/Users/miguelchinchilla/Desktop/Codigo Ioan/BondBuyTrigger.trigger",
+		"/Users/miguelchinchilla/Desktop/Codigo Ioan/BondBuyTriggerHandler.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_27Julio2016/src/classes/TestData.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_27Julio2016/src/classes/Util.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_27Julio2016/src/classes/ShowingTriggerService.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_27Julio2016/src/classes/UpdateObjectBatchable.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_27Julio2016/src/classes/constants.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_26Julio2016/src/classes/TrailerTriggerService.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_25Julio2016/src/classes/ShowingTriggerService.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_23Julio2016/src/classes/TrailerTriggerHandler.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_23Julio2016/src/classes/ShowingWizardController.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_23Julio2016/src/classes/TrailerTriggerService.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_23Julio2016/src/triggers/ShowingTrigger.trigger",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_23Julio2016/src/classes/ShowingTriggerHandler.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_23Julio2016/src/classes/ShowingTriggerService.cls",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_23Julio2016/src/triggers/TrailerTrigger.trigger",
+		"/Users/miguelchinchilla/Documents/Salesforce/workspace/AMCs_23Julio2016/src/pages/ShowingWizard.page"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MavensMate-OutputPanel":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 415.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
